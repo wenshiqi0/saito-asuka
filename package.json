@@ -1,0 +1,26 @@
+{
+  "name": "saito-asuka",
+  "version": "0.0.1",
+  "description": "module rebuild and cache reload for electron",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alipay-inc.com:shiqi.wsq/Asuka.git"
+  },
+  "keywords": [
+    "electron",
+    "cache",
+    "module"
+  ],
+  "author": "munong",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "event-kit": "^2.1.0",
+    "fs-plus": "^2.9.1"
+  }
+}
